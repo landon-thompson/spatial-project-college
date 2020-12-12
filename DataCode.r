@@ -5,7 +5,7 @@ library(rgeos)
 library(dplyr)
 library(sqldf)
 
-setwd('C:\\Users\\lthompson24500\\Google Drive\\Spatial Final Project\\FinalDataSets')
+setwd('C:\\Users\\Landon\\Google Drive\\Spatial Final Project\\FinalDataSets')
 
 
 elecResults <- read.xlsx('2016_results.xlsx')
